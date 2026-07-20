@@ -216,3 +216,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# Anaconda / Conda
+anaconda_projects/
+.anaconda/
+
+# Task Folders
+Task 1/
+Task 2/
+Task 3/
